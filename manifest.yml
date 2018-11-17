@@ -7,8 +7,8 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: vy102-XXX-express
-  host: vy102-XXX-express
+  name: vy102-3409-express
+  host: vy102-3490-express
   disk_quota: 1024M
   command: node app
   services:
